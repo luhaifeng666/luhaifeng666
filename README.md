@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我是一名前端界的打字员~
+
+这里是 [我的主页](https://luhaifeng666.github.io), 欢迎留下你的足迹~
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luhaifeng666&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
