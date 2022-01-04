@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="float:left;width:50%;">
+
 我是一名前端界的打字员~
+ 
+这里是 <a href="https://luhaifeng666.github.io" target="_blank">我的主页</a>, 欢迎留下你的足迹~
 
-这里是 [我的主页](https://luhaifeng666.github.io), 欢迎留下你的足迹~
+</div>
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=luhaifeng666&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img style="float:right;width:50%" src="https://github-readme-stats.vercel.app/api?username=luhaifeng666&show_icons=true&theme=dark" />
