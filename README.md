@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luhaifeng666&show_icons=true&hide_title=true&hide_border=true&theme=dracula" /><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhaifeng666&layout=compact&show_icons=true&hide_border=true&theme=dracula&exclude_repo=luhaifeng666.github.io" />
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=luhaifeng666&theme=vue" alt="luhaifeng666's github activity graph" />
